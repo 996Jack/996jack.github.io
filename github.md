@@ -21,4 +21,4 @@ JavaScript
 
 ---
 
-** GitHub (github.com/GHPhenixH
+** [GitHub](github.com/GHPhenixH) **
