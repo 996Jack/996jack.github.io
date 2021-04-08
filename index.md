@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/github/last-commit/GHPhenixH/ghphenixh.github.io?label=Last%20Update">
     </a>
     <img src="https://img.shields.io/github/languages/code-size/GHPhenixH/ghphenixh.github.io?label=Size">
-    <a href="https://github.com/TheShadowGamer/invite-manager/issues">
+    <a href="https://github.com/GHPhenixH/ghphenixh.github.io/issues">
         <img src="https://img.shields.io/github/issues/GHPhenixH/ghphenixh.github.io?label=Issues">
     </a>
 </p>
