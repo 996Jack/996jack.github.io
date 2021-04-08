@@ -3,8 +3,8 @@
     <a href="LICENSE">
         <img src="https://img.shields.io/github/license/GHPhenixH/ghphenixh.github.io?label=License">
     </a>
-    <a href="https://github.com/GHPhenixH/ghphenixh.github.io/stargazers">
-        <img src="https://img.shields.io/github/stars/GHPhenixH/ghphenixh.github.io?label=Stars">
+    <a href="Sponsot">
+        <img src="https://img.shields.io/github/license/GHPhenixH/ghphenixh.github.io?label=License">
     </a>
     <a href="https://github.com/GHPhenixH/ghphenixh.github.io/releases/latest">
         <img src="https://img.shields.io/github/v/release/GHPhenixH/ghphenixh.github.io?label=Latest%20Version">
@@ -19,6 +19,8 @@
 </p>
 
 ---
+
+Sponsor me! [Patreon](patreon.com/PhenixH) & [DonorBox](https://donorbox.org/phenix-h-fundraiser).
 
 ## About my website
 This website is the Jekyll Hacker theme. This is not used on much pages on this website.
