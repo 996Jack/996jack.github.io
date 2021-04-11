@@ -3,9 +3,6 @@
     <a href="LICENSE">
         <img src="https://img.shields.io/github/license/GHPhenixH/ghphenixh.github.io?label=License">
     </a>
-    <a href="Sponsot">
-        <img src="https://img.shields.io/github/license/GHPhenixH/ghphenixh.github.io?label=License">
-    </a>
     <a href="https://github.com/GHPhenixH/ghphenixh.github.io/releases/latest">
         <img src="https://img.shields.io/github/v/release/GHPhenixH/ghphenixh.github.io?label=Latest%20Version">
     </a>
