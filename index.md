@@ -1,4 +1,4 @@
-<h1 align="center">ghphenixh.github.io</h1>
+<h1 align="center">996jack.github.io</h1>
 <p align="center">
     <a href="LICENSE">
         <img src="https://img.shields.io/github/license/GHPhenixH/ghphenixh.github.io?label=License">
