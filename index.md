@@ -22,4 +22,4 @@ Sponsor me! [Patreon](patreon.com/PhenixH) & [DonorBox](https://donorbox.org/phe
 ## About my website
 This website is the Jekyll Hacker theme. This is not used on much pages on this website.
 
-## Check out [other pages](https://ghphenixh.github.io/more.html)! Cannot click it? Go to https://ghphenixh.github.io/more.html!
+## Check out [other pages](https://996Jack.github.io/more.html)! Cannot click it? Go to https://996Jack.github.io/more.html!
