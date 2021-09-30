@@ -5,12 +5,41 @@
 </head>
 <body>
 
-<script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
-    new Crate({
-        server: '807519571681738752', // Phenix H.
-        channel: '807813099045257217' // #general
-    })
-</script>
+type url = string
+type size = string
+
+export type vertical = 'top' | 'bottom' | number
+export type horizontal = 'left' | 'right' | number
+
+interface Options {
+  // Server + channel IDs
+  server: 807813099045257217
+  channel?: string
+
+  // Where the button should appear on-screen
+  location?: [vertical, horizontal]
+
+  // The color of the button
+  color?: string
+  // The glyph to display on the button
+  glyph?: [url, size]
+  // Custom CSS to be injected into the Shadow root
+  css?: string
+
+  // Message notifications
+  notifications?: boolean
+  // Unread message indicator
+  indicator?: boolean
+  // Notification timeout
+  timeout?: number
+
+  // Only load the widget once the user opens it
+  defer?: boolean
+  // Connect to a custom WidgetBot server
+  shard?: url
+}
+
+export default Options
 
 </body>
 </html>
