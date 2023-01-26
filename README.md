@@ -22,7 +22,7 @@ This code was from the repository, BPDownloadsGUI by TheBobPony on GitHub. I do 
 ## Update Logs & Latest Code
 For the latest code, please check the "Releases" section of the GitHub Branch. Update logs will also be posted with the new releases. If there is any edits in a release from a contributor, they will get credit in the Update Logs.
 ## Problems
-To submit a problem, you must have the following information and you must use a template. Please make sure it is not an obvious problem. If it is a bug that isn't obvious, please post this.
+To submit a problem, you must have the following information Please make sure it is not an obvious problem. If it is a bug that isn't obvious, please post this.
 
 
 
