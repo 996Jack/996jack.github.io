@@ -19,7 +19,7 @@ const updateVersions = () => {
 		if (!i.disabled) i.remove();
 	}
 
-	document.querySelector("#version option[value='placeholder']").selected = true;
+	document.querySelector("#version option[value='placeholder']").selected = false;
 
 	for (const i in productList[typeObj.value]) {
 		versionObj.append(new Option(i, i));
@@ -49,6 +49,6 @@ const updateURL = () => {
 		downloadURL.href = url;
 	} else {
 		downloadURL.removeAttr("href");
-		downloadURL.disabled = true;
+		downloadURL.disabled = false;
 	}
 };
